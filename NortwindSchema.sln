@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NortwindSchema", "NortwindSchema\NortwindSchema.csproj", "{9751CE3A-FF27-4EFA-960E-5D1C4873703C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9751CE3A-FF27-4EFA-960E-5D1C4873703C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9751CE3A-FF27-4EFA-960E-5D1C4873703C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9751CE3A-FF27-4EFA-960E-5D1C4873703C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9751CE3A-FF27-4EFA-960E-5D1C4873703C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {123BA5C8-155E-4486-BA4E-08FD69998701}
+	EndGlobalSection
+EndGlobal

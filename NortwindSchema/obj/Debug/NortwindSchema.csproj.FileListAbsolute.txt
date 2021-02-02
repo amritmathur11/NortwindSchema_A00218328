@@ -1,0 +1,30 @@
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\NortwindSchema.exe.config
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\NortwindSchema.exe
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\NortwindSchema.pdb
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.dll
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.SqlServer.dll
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.xml
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.SqlServer.xml
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csprojAssemblyReference.cache
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csproj.CoreCompileInputs.cache
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csproj.CopyComplete
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.exe
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.pdb
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.Migrations.InitialDatabaseCreation.resources
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csproj.GenerateResource.cache
+C:\My Data\My Data\Projects\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.Migrations.SomeColumnsNameChanges.resources
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\NortwindSchema.exe.config
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\NortwindSchema.exe
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\NortwindSchema.pdb
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.dll
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.SqlServer.dll
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.xml
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\bin\Debug\EntityFramework.SqlServer.xml
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csprojAssemblyReference.cache
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.Migrations.InitialDatabaseCreation.resources
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.Migrations.SomeColumnsNameChanges.resources
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csproj.GenerateResource.cache
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csproj.CoreCompileInputs.cache
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.csproj.CopyComplete
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.exe
+C:\Web development\NortwindSchema\NortwindSchema\NortwindSchema\obj\Debug\NortwindSchema.pdb
